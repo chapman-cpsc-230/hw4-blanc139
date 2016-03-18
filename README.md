@@ -12,7 +12,7 @@ Fourth Homework Assignment. Various problems from the textbook.
 
 ## What I Learned from This
 
-Performed multiple exercises, some exercises from the textbook and some from classwork. Learned how to use and test functions, and I not have a better understanding of "For" loops.
+Performed multiple exercises, some exercises from the textbook and some from classwork. Learned how to use and test functions, and I now have a better understanding of "For" loops.
 
 ## Honor Pledge
 
